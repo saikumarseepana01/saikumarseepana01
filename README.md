@@ -17,8 +17,8 @@ I am a dedicated and enthusiastic final-year Computer Science and Engineering st
 - HTML, CSS, JavaScript
 
 ### **Frameworks & Technologies**
-- ASP.NET, ADO.NET, PHP
-- Node.js, TypeScript, Angular, DevOps
+- ADO.NET, PHP
+
 
 ### **Operating Systems**
 - Windows, Linux, Kali Linux
