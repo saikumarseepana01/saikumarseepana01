@@ -86,4 +86,4 @@ I aim to grow as a **full-stack developer and machine learning engineer**, lever
 📞 Phone: +91 9705954462  
 📧 Email: [saikumarseepana01@gmail.com](mailto:saikumarseepana01@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/saikumar-seepana-a65264230](https://www.linkedin.com/in/saikumar-seepana-a65264230)  
-🖋️ Personal Portfolio: [Click-here]((https://personal-portfolio-lyt9.vercel.app/))
+🖋️ Personal Portfolio: [Click-here](https://personal-portfolio-lyt9.vercel.app/)
