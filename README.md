@@ -27,14 +27,29 @@ I aim to grow as a **full-stack developer and machine learning engineer**, lever
 ## 🛠️ Skills
 
 ### Programming Languages
-- C, C++, Java, Python, C#  
-- HTML, CSS, JavaScript  
+- **C, C++, Java, Python, C#**  
+- **Web:** HTML, CSS, JavaScript  
 
-### Frameworks & Technologies
-- ADO.NET, PHP  
+### Frameworks & Libraries
+- ADO.NET, Node.js, Bootstrap  
 
-### Operating Systems
-- Windows, Linux, Kali Linux  
+### Databases
+- SQL  
+
+### Web & Mobile Development
+- Frontend development: HTML, CSS, JavaScript, Bootstrap  
+- Backend development: Node.js, ADO.NET, C#  
+- Mobile accessibility testing: iOS & Android  
+
+### Accessibility & Testing
+- WCAG, ARIA standards  
+- Accessibility testing & remediation  
+- Inclusive UI/UX design principles  
+
+### Tools & Platforms
+- Microsoft Office Suite  
+- Linux, Windows, Kali Linux  
+- Git & GitHub  
 
 ---
 
